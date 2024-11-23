@@ -1,5 +1,5 @@
 
-### नमस्ते (Namaste)🙏🏻, I am Suresh Kumar Mallik !
+### नमस्ते (Namaste)🙏🏻, I am Abinash Malik !
 
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&center=true&width=400&height=40"></a>
 ### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development, Web3 𝓪𝓷𝓭 Photography ♥️
@@ -14,7 +14,7 @@
 ### 📫 How can you reach me?
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/suresh-kumar-mallik-7193b4233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrovONgGZTXWjDexRRKohIA%3D%3D">
+    <a href="https://www.linkedin.com/in/abinash-malik-a584591ba">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" />
     </a>
     <a href="https://suresh170411.github.io/">
