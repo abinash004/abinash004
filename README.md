@@ -20,7 +20,7 @@
     <a href="https://suresh170411.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="PORTFOLIO" />
     </a>
-    <a title="suresh.20fk@gmail.com" href="mailto:rushivenketesh@gmail.com">
+    <a title="abinashmalik95@gmail.com" href="mailto:rushivenketesh@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
     </a>
     <a title="Suresh_Kumar_Mallik_Resume" href="https://drive.google.com/file/d/1RGKv8ZyLxQ9zvgja8Qm6qNgG_Au5USIM/view?usp=sharing">
